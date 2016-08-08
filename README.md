@@ -1,0 +1,2 @@
+# recipes
+Chef Recipes collection
